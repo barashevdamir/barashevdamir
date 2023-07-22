@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" title="SQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" title="Django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" title="Django" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40" height="40"/>
