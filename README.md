@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/damirbarashev">
