@@ -21,11 +21,13 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m BMSTU student and contribute backend and frontend for building web applications.
+- :man_student: I’m BMSTU student and contribute backend and frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :open_book: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :1st_place_medal: Hack&Change 2023 Qiwi Track Winner
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-damirbarashev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/damirbarashev)
 
