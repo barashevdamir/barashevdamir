@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :1st_place_medal: Hack&Change 2023 Qiwi Track Winner
+- :1st_place_medal: Hack&Change 2023 Qiwi Track Winner (team "РосГосХак")
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-damirbarashev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/damirbarashev)
 
