@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :open_book: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I write pet-projects on Go
 
 - :1st_place_medal: Hack&Change 2023 Qiwi Track Winner (team "РосГосХак")
 
