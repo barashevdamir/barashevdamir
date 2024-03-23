@@ -49,6 +49,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=barashevdamir&theme=dark&background=000000)](https://git.io/streak-stats)
+![barashevdamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=barashevdamir&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barashevdamir&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
