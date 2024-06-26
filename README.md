@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdwaGI1bjBkYXQ4N3B3Zm5kNmhseG50cTFkYmdheGZpajB3dHR2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dMlPP0fybIZy/giphy.gif" width="30">.
 - :man_student: I’m BMSTU student and contribute backend and frontend for building web applications.
 
 - :open_book: Exploring Technical Content Writing.
