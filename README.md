@@ -21,7 +21,8 @@
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer.
-- :man_student: I’m BMSTU student and contribute backend and frontend for building web applications.
+
+- <img src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg](https://upload.wikimedia.org/wikipedia/ru/b/bd/Герб_МГТУ_имени_Н._Э._Баумана.svg)" alt="Python" title="Python" width="40" height="40"/> I’m BMSTU student and contribute backend and frontend for building web applications.
 
 - :open_book: Exploring Technical Content Writing.
 
