@@ -22,11 +22,9 @@
 
 I am a Full Stack Developer.
 
-- <img src="https://upload.wikimedia.org/wikipedia/ru/b/bd/Герб_МГТУ_имени_Н._Э._Баумана.svg" alt="Python" title="Python" width="40" height="40"/> I’m BMSTU student and contribute backend and frontend for building web applications.
+- :man_student: I’m BMSTU student.
 
 - :open_book: Exploring Technical Content Writing.
-
-- :zap: In my free time, I write pet-projects on Go
 
 - :1st_place_medal: Hack&Change 2023 Qiwi Track Winner (team "РосГосХак")
 
