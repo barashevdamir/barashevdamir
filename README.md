@@ -16,22 +16,6 @@
   isetsmokinsession
 </h1>
 
----
-
-### :man_technologist: About Me :
-
-I am a Full Stack Developer.
-
-- :man_student: I’m BMSTU student.
-
-- :open_book: Exploring Technical Content Writing.
-
-- :1st_place_medal: Hack&Change 2023 Qiwi Track Winner (team "РосГосХак")
-
-- 📬: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-damirbarashev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/damirbarashev)
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
