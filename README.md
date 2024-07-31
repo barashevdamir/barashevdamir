@@ -36,7 +36,7 @@
 
 
 <p align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/barashevdamir?theme=wtf&font=source_code_pro&extension=activity)
+   <img src="https://leetcard.jacoblin.cool/barashevdamir?theme=wtf&font=source_code_pro&extension=activity">
 </p>
 
 
