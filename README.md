@@ -34,6 +34,14 @@
 
 ---
 
+<p align="center">
+[![barashevdamir's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=barashevdamir)](https://github.com/KnlnKS/leetcode-stats)
+</p>
+
+---
+
+---
+
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=barashevdamir&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
